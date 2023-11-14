@@ -1,0 +1,37 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-JAPANESE-00070/canvas/1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Cute.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "marktaylorhutchinson",
+                "name": "marktaylorhutchinson"
+            },
+            "created": "2023-11-14T11:37:16.973Z",
+            "modified": "2023-11-14T11:37:20.367Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-JAPANESE-00070",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-JAPANESE-00070/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"2889.5311279296875\" cy=\"4703.25634765625\" r=\"340.0697840456003\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f68215f0-4450-428e-bbf9-42c03fb3289a.json",
+    "motivation": "commenting"
+}
